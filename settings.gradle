@@ -1,0 +1,3 @@
+rootProject.name = "aBoot"
+include ':library'
+include ':sample'
